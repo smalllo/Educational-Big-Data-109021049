@@ -1,0 +1,14 @@
+教育雲eduLRS學習行為資料庫	https://pads.moe.edu.tw/
+臺灣學生學習成就評量資料庫(Taiwan Assessment of Student Achievement, TASA)	https://tasal.naer.edu.tw/tasa
+台灣教育長期追蹤資料庫(Taiwan Education Panel Survey, TEPS)	http://srda.sinica.edu.tw/browsingbydatatype_result.php?category=surveymethod&type=2&csid=7
+「台灣教育長期追蹤資料庫」後續調查(TEPS-B)	http://srda.sinica.edu.tw/browsingbydatatype_result.php?category=surveymethod&type=2&csid=20
+特殊教育長期追蹤資料庫(Special Needs Education Longitudinal Study, SNELS)	http://srda.sinica.edu.tw/browsingbydatatype_result.php?category=surveymethod&type=2&csid=18
+國家教育研究資料庫(National Education Research Data Archive, NERDA)	https://www.naer.edu.tw/PageDoc/Detail?fid=440&id=3491
+臺灣後期中等教育長期追蹤資料庫(Taiwan Upper Secondary Education Database)	https://use-database.cher.ntnu.edu.tw/used/
+各級學校學生運動參與情形調查	https://srda.sinica.edu.tw/browsingbydatatype_result.php?category=surveymethod&type=4&typeb=013&csid=126
+Datashop	https://datashop.memphis.edu/
+Newfoundland Labrador (Cnanadat) Download a Database of K-12 Schools	https://www.gov.nl.ca/education/faq/schooldatabase/
+NCES national center for education statistics	https://nces.ed.gov/
+Kaggle	https://www.kaggle.com/junyiacademy/datasets
+THE WORLD BANK Education Statistics (EdStats)	https://datatopics.worldbank.org/education/home
+California Department of Education	https://www.cde.ca.gov/ds/ad/downloadabledata.asp
